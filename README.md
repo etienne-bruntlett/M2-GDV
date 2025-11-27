@@ -6,4 +6,4 @@ Maak een Array waar je 10 random items in hebt. Maak het ook dat als je de Enter
 
 <img width="1964" height="486" alt="image" src="img/gif1.gif" />
 
-https://github.com/etienne-bruntlett/M2-GDV/blob/main/README.md
+[https://github.com/etienne-bruntlett/M2-GDV/blob/main/README.md](https://github.com/etienne-bruntlett/M2-GDV/blob/main/randomItem.cs)
